@@ -59,7 +59,7 @@ If output starts to look too academic:
 If output starts to look too fantasy:
 
 - reduce armor, weapons, dramatic lighting, and heroic poses
-- add book pages, ink wash, paper texture, and study-note elements
+- add fresh paper layers, light line art, paper texture, and study-note elements
 
 If output starts to look too crowded:
 
@@ -67,4 +67,3 @@ If output starts to look too crowded:
 - make the main title larger
 - group details into sticky notes
 - keep a clear central visual subject
-

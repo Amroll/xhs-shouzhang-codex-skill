@@ -24,12 +24,12 @@ Batch character requests default to one separate cover per character. If you ask
 This skill keeps a stable visual DNA:
 
 - fresh warm cream or pale blush base paper background
-- clean book-page grain
-- torn paper edges and layered paper
+- clean stationery paper grain
+- soft cut-paper edges and layered sticker-like paper
 - pale pink washi tape, translucent tape, peach sticky notes, and labels
 - handwritten notes, arrows, circles, and underlines
-- red and blue pen annotations, seal stamps, and small gold stamps
-- watercolor illustration, colored pencil texture, and Chinese ink accents
+- red and blue pen annotations, tiny coral label marks, and small champagne sticker marks
+- watercolor illustration, colored pencil texture, and light ink-line accents
 - information-rich layouts with comfortable spacing
 - a warmer, more refined girlish atmosphere that still feels educational, collectible, and emotionally healing
 

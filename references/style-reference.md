@@ -23,22 +23,22 @@ Always prefer:
 - milky ivory paper
 - pale cherry-blossom blush base sheet
 - very light apricot paper
-- clean book-page grain
-- torn paper edges
+- clean stationery paper grain
+- soft cut-paper edges
 - pale beige paper fragments as accents only
-- rice paper texture
+- lightweight paper texture
 - pale pink washi tape
 - translucent tape
 - peach and apricot sticky notes
 - small flower label stickers
-- red seal stamps
-- gold seal stamps
+- tiny coral label marks
+- soft champagne sticker marks
 - handwritten arrows
 - red and blue pen circles
 - highlighter marks
 - soft watercolor illustrations
 - colored pencil edges
-- faint ink wash landscape or plant details
+- faint light-ink line art or plant details
 
 ## Color System
 
@@ -59,7 +59,7 @@ Accent colors:
 - soft champagne gold
 - tiny accents of bamboo green
 - tiny accents of misty blue
-- ink black
+- soft gray-black
 
 Use pink and peach accents as a soft temperature, not as a full pink wash. Bamboo green and misty blue are balancing accents only. The page should feel warm, fresh, literary, feminine, and collectible.
 
@@ -68,9 +68,9 @@ Use pink and peach accents as a soft temperature, not as a full pink wash. Bambo
 The bottom-most background paper should feel 少女感, 文艺, and 小清新:
 
 - preferred base colors: milky ivory, fresh warm cream, pale cherry-blossom blush, very light apricot
-- texture: matte paper, subtle fibers, clean book-page grain
+- texture: matte stationery paper, subtle fibers, clean paper grain
 - light: airy, clean, warm daylight
-- avoid: dark, stained, yellow-brown, muddy beige, or gray aged backgrounds
+- avoid: dark, stained, yellow-brown, muddy beige, or gray backgrounds
 
 Light beige scraps and fine brown labels can appear only as small collage accents above the base sheet. They should not define the overall background color.
 
@@ -83,7 +83,7 @@ Use:
 - visible paper fibers
 - layered collage depth
 - slightly imperfect hand-made edges
-- subtle ink and watercolor bleed
+- subtle watercolor bleed and clean line details
 
 Avoid:
 
@@ -97,8 +97,8 @@ Avoid:
 
 Use visual text as part of the composition:
 
-- large black brush-calligraphy title
-- small red seal near the title
+- large readable brush-style title, not too heavy
+- small coral label mark near the title
 - handwritten note labels
 - underlines and circles
 - short sticky-note captions
@@ -131,10 +131,10 @@ Use these when describing atmosphere:
 
 Every output should include at least five recurring brand anchors:
 
-1. clean cream paper or book-page grain
-2. torn paper or layered collage
+1. clean cream stationery paper grain
+2. soft cut-paper or layered sticker collage
 3. tape or sticky note
 4. handwritten annotation
 5. soft watercolor or colored pencil guofeng illustration
 6. warm cream, peach, apricot, and dusty rose palette
-7. red seal or ink brush title
+7. tiny coral label mark or brush-style title

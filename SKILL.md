@@ -48,7 +48,7 @@ Use this mode when the user asks for a named character group, full roster, compl
 Default behavior:
 
 1. Treat each character as one separate `Template B: Character Cover` image.
-2. Keep the same aspect ratio, layout skeleton, border style, paper texture, color palette, title placement, seal placement, and annotation density across the whole series.
+2. Keep the same aspect ratio, layout skeleton, border style, fresh paper texture, color palette, title placement, tiny coral label-mark placement, and annotation density across the whole series.
 3. Give each character distinct visual cues: clothing color, symbolic object, flower or plant, posture, facial temperament, iconic scene, and 2-4 character-specific annotations.
 4. Start by listing the character roster and planned visual differentiators. If the roster is famous and stable, proceed without asking the user to confirm. If the roster is ambiguous, ask one concise clarification.
 5. For 12 or fewer characters, generate the full set in one batch when the image tool can handle it. For more than 12 characters, split into numbered batches and keep a consistent series plan.
@@ -85,16 +85,16 @@ Every visual prompt should preserve these anchors:
 
 - scrapbook collage, hand-made layout, layered paper
 - fresh warm cream base paper background with a subtle blush-pink tint
-- clean book-page grain
-- torn paper edges
+- clean stationery paper grain
+- soft cut-paper edges and sticker-like paper layers
 - soft pink washi tape and translucent tape
 - peach sticky notes, labels, small flower stickers
 - handwritten annotations, arrows, circles, underlines
 - red and blue pen notes
 - soft watercolor illustration
 - delicate colored pencil texture
-- Chinese ink accents
-- red seal stamp or gold stamp
+- light ink-line accents
+- tiny coral label mark or soft champagne sticker mark
 - gentle shadows between paper layers
 - warm honey-like soft light
 - high information density but comfortable spacing
@@ -112,14 +112,14 @@ Preferred color system:
 - soft champagne gold
 - tiny accents of bamboo green
 - tiny accents of misty blue
-- ink black
+- soft gray-black
 
 Avoid making the palette too dark, too saturated, too neon, too candy-like, or too theatrical. Keep the girlish feeling warm, literary, and refined rather than cute in a childish way.
 
 Base paper color rule:
 
 - The bottom-most sheet should feel girlish, literary, and fresh: milky ivory, fresh warm cream, pale cherry-blossom blush, or very light apricot.
-- Keep the base paper bright and airy, with only subtle paper fibers and clean book-page grain.
+- Keep the base paper bright and airy, with only subtle paper fibers and clean stationery grain.
 - Avoid any dark, stained, yellow-brown, or muddy gray-beige main background.
 - Use beige-brown only as tiny label text, thin outlines, or edge accents, not as the dominant base sheet.
 
@@ -132,7 +132,7 @@ Use for works, dynasties, schools of thought, large topics, or "one image to und
 Structure:
 
 - top: large brush-calligraphy title
-- near title: red seal and 2-4 Xiaohongshu collection tags
+- near title: tiny coral label mark and 2-4 Xiaohongshu collection tags
 - center: main visual cluster of key people, events, or symbolic objects
 - sides: sticky notes, arrows, handwritten explanations
 - bottom: timeline, map, chapter tags, or core relationship summary

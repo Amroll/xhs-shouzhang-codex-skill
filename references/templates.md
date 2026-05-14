@@ -9,7 +9,7 @@ Use for large topics, books, eras, schools, or "one image to understand X".
 Structure:
 
 - top: large brush-calligraphy title
-- title side: red seal and 2-4 collection tags
+- title side: tiny coral label mark and 2-4 collection tags
 - center: clustered key figures, events, or symbols
 - left/right: sticky notes, arrows, quick explanations
 - bottom: timeline, map, faction strip, chapter tags, or summary row
@@ -73,7 +73,7 @@ Series rules:
 - do not make a single collage grid by default
 - same cover ratio, title area, collage density, paper texture, and palette
 - shared series label, such as "金陵十二钗" or "唐宋诗人手账"
-- consistent numbering, seal placement, and bottom note style
+- consistent numbering, tiny label-mark placement, and bottom note style
 - distinct symbolic object, clothing accent, flower or plant, and emotional keyword for each character
 - do not replace the full requested group with only representative characters
 
