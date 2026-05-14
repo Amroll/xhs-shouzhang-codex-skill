@@ -29,11 +29,11 @@ This skill keeps a stable visual DNA:
 - pale pink washi tape, translucent tape, peach sticky notes, and labels
 - handwritten notes, arrows, circles, and underlines
 - red and blue pen annotations, seal stamps, and small gold stamps
-- bright watercolor illustration, colored pencil texture, and light Chinese ink accents
+- watercolor illustration, colored pencil texture, and Chinese ink accents
 - information-rich layouts with comfortable spacing
 - a warmer, more refined girlish atmosphere that still feels educational, collectible, and emotionally healing
 
-Preferred colors include bright milky white, fresh warm cream, milky ivory, pale cherry-blossom blush, peach pink, apricot blush, dusty rose, light milk tea beige, soft champagne gold, and tiny accents of bamboo green or misty blue. The bottom-most base paper should stay bright, airy, literary, and fresh rather than dark parchment or heavy kraft brown. Dark ink, brown, and deep red should appear only as small detail anchors.
+Preferred colors include fresh warm cream, milky ivory, pale cherry-blossom blush, peach pink, apricot blush, dusty rose, milk tea brown, soft champagne gold, and tiny accents of bamboo green or misty blue. The bottom-most base paper should stay bright, airy, literary, and fresh rather than dark parchment or heavy kraft brown.
 
 ## Repository Structure
 
