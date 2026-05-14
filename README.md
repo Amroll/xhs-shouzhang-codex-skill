@@ -1,0 +1,209 @@
+# Guofeng Scrapbook Xiaohongshu Skill
+
+中文 | [English](#english)
+
+## 中文
+
+`guofeng-scrapbook-xiaohongshu` 是一个面向 Codex 的国风手账视觉创作技能，用于把中国文学、历史、诗词、人物研究和治愈系知识内容，转化为适合小红书发布的统一视觉体系。
+
+它不只是生成单张图片提示词，而是帮助你建立一套可复用的账号视觉风格：国风、旧纸、拼贴、手写批注、知识卡片、人物封面、关系图、金句卡和发布文案。
+
+## 适合做什么
+
+- 小红书国风手账封面
+- 文学名著视觉化内容
+- 历史人物或文学人物封面
+- 人物关系图、阵营图、家族图
+- 古诗词、金句、治愈反思卡
+- 账号头像、主页视觉和系列封面
+- 书籍内容包：封面、人物图、关系图、金句图、标题、正文、话题标签
+
+## 核心风格
+
+这个 skill 默认保持一套稳定的视觉 DNA：
+
+- 暖白旧纸背景
+- 复古书页纹理
+- 撕纸边缘和多层纸张
+- 和纸胶带、透明胶带、便签、标签
+- 手写批注、箭头、圈画、下划线
+- 红蓝笔记、印章、金色小章
+- 水彩插画、彩铅质感、中国水墨点缀
+- 高信息密度，但保持舒服留白
+- 教育感、收藏感和治愈感并存
+
+## 目录结构
+
+```text
+.
+├── SKILL.md
+├── examples/
+│   ├── avatar.md
+│   ├── liu-bei.md
+│   ├── sanguo-cover.md
+│   └── sun-quan.md
+└── references/
+    ├── book-series-workflow.md
+    ├── negative-rules.md
+    ├── publishing.md
+    ├── style-reference.md
+    └── templates.md
+```
+
+## 安装方式
+
+把这个仓库放到 Codex 的 skills 目录下：
+
+```powershell
+cd "$env:USERPROFILE\.codex\skills"
+git clone git@github.com:Amroll/xhs-shouzhang-codex-skill.git guofeng-scrapbook-xiaohongshu
+```
+
+如果已经在本地有这个 skill，可以直接拉取更新：
+
+```powershell
+cd "$env:USERPROFILE\.codex\skills\guofeng-scrapbook-xiaohongshu"
+git pull
+```
+
+## 使用示例
+
+可以这样向 Codex 提问：
+
+```text
+用 guofeng-scrapbook-xiaohongshu 技能，给《三国演义》做一套小红书国风手账内容包。
+```
+
+```text
+生成一张刘备人物封面，国风手账拼贴风，小红书封面比例。
+```
+
+```text
+帮我做《红楼梦》人物关系图，要求像小红书高收藏知识图。
+```
+
+```text
+给苏轼做一张治愈系金句卡，带发布标题、正文和话题标签。
+```
+
+## 工作流
+
+当用户只给出书名或主题时，这个 skill 会自动判断内容类型，并选择合适的参考文件：
+
+- `book-series-workflow.md`：完整书籍内容包
+- `style-reference.md`：统一视觉风格
+- `templates.md`：封面、人物、关系图、金句卡、账号视觉模板
+- `negative-rules.md`：避免跑偏的负面规则
+- `publishing.md`：小红书标题、正文、标签和互动钩子
+
+如果用户明确要求生成图片，skill 会优先使用可用的图像生成工具，并在环境允许时优先选择 GPT Image 2。
+
+## 维护建议
+
+- 新增风格规则时，优先写入 `references/style-reference.md`
+- 新增版式时，优先写入 `references/templates.md`
+- 新增案例时，放入 `examples/`
+- 避免在仓库中提交 API key、token、`.env` 或个人隐私文件
+
+---
+
+## English
+
+`guofeng-scrapbook-xiaohongshu` is a Codex skill for creating Guofeng scrapbook-style visual content for Xiaohongshu. It turns Chinese literature, history, poetry, character studies, and reflective knowledge topics into a consistent visual content system.
+
+It is designed for more than one-off image prompts. The goal is to help build a reusable account-level visual language: Guofeng aesthetics, vintage paper, collage layouts, handwritten annotations, knowledge cards, character covers, relationship maps, quote cards, and publishing copy.
+
+## What It Creates
+
+- Guofeng scrapbook covers for Xiaohongshu
+- Visual content for classic Chinese literature
+- Historical or literary character covers
+- Relationship maps, faction maps, and family trees
+- Poetry cards, quote cards, and healing reflection cards
+- Account avatars, profile visuals, and series covers
+- Full book content packages: covers, character visuals, relationship maps, quote cards, titles, captions, and hashtags
+
+## Core Style
+
+This skill keeps a stable visual DNA:
+
+- warm off-white vintage paper background
+- old book page texture
+- torn paper edges and layered paper
+- washi tape, translucent tape, sticky notes, and labels
+- handwritten notes, arrows, circles, and underlines
+- red and blue pen annotations, seal stamps, and small gold stamps
+- watercolor illustration, colored pencil texture, and Chinese ink accents
+- information-rich layouts with comfortable spacing
+- an educational, collectible, and emotionally healing atmosphere
+
+## Repository Structure
+
+```text
+.
+├── SKILL.md
+├── examples/
+│   ├── avatar.md
+│   ├── liu-bei.md
+│   ├── sanguo-cover.md
+│   └── sun-quan.md
+└── references/
+    ├── book-series-workflow.md
+    ├── negative-rules.md
+    ├── publishing.md
+    ├── style-reference.md
+    └── templates.md
+```
+
+## Installation
+
+Clone this repository into your Codex skills directory:
+
+```powershell
+cd "$env:USERPROFILE\.codex\skills"
+git clone git@github.com:Amroll/xhs-shouzhang-codex-skill.git guofeng-scrapbook-xiaohongshu
+```
+
+If the skill already exists locally, update it with:
+
+```powershell
+cd "$env:USERPROFILE\.codex\skills\guofeng-scrapbook-xiaohongshu"
+git pull
+```
+
+## Example Prompts
+
+```text
+Use the guofeng-scrapbook-xiaohongshu skill to create a full Xiaohongshu Guofeng scrapbook content package for Romance of the Three Kingdoms.
+```
+
+```text
+Create a Liu Bei character cover in Guofeng scrapbook collage style for Xiaohongshu.
+```
+
+```text
+Make a Dream of the Red Chamber character relationship map as a high-save Xiaohongshu knowledge graphic.
+```
+
+```text
+Create a healing quote card for Su Shi, including Xiaohongshu title, caption, and hashtags.
+```
+
+## Workflow
+
+When the user provides only a book title or topic, this skill identifies the content type and uses the relevant reference files:
+
+- `book-series-workflow.md`: full book-to-Xiaohongshu content package
+- `style-reference.md`: consistent visual style
+- `templates.md`: cover, character, relationship map, quote card, and account visual templates
+- `negative-rules.md`: rules that prevent visual drift
+- `publishing.md`: Xiaohongshu title, caption, hashtag, and interaction hooks
+
+When the user explicitly asks to generate images, the skill prefers available image generation tools and selects GPT Image 2 when the environment exposes a model choice.
+
+## Maintenance Notes
+
+- Add new style rules to `references/style-reference.md`
+- Add new layout structures to `references/templates.md`
+- Add new few-shot examples to `examples/`
+- Do not commit API keys, tokens, `.env` files, or private personal data
