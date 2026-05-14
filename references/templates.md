@@ -63,6 +63,21 @@ Best for:
 - 苏轼
 - 李白
 
+## Template B2: Batch Character Series
+
+Use when the user asks for multiple individual character covers in one request, especially a named group or complete set such as 金陵十二钗, 水浒 108 将, 唐宋诗人系列, or a faction roster.
+
+Series rules:
+
+- one character per image
+- same cover ratio, title area, collage density, paper texture, and palette
+- shared series label, such as "金陵十二钗" or "唐宋诗人手账"
+- consistent numbering, seal placement, and bottom note style
+- distinct symbolic object, clothing accent, flower or plant, and emotional keyword for each character
+- do not replace the full requested group with only representative characters
+
+For 12 or fewer characters, plan the whole roster before generating. For more than 12 characters, divide into batches with a shared visual system.
+
 ## Template C: Relationship Map
 
 Use for complex groups, factions, family trees, emotional relationships, and plot networks.
@@ -141,4 +156,3 @@ Best for:
 - 账号主页视觉
 - 博主 IP 形象
 - 系列封面统一视觉
-

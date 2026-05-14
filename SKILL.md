@@ -23,21 +23,54 @@ For every request:
    - book content package from a book title
    - overview cover
    - character cover
+   - batch character series
    - relationship map
    - quote or emotional reflection card
    - account avatar or profile visual
    - publishing copy
    - full content series
 2. If the user inputs only a book title, or asks for a full book-to-Xiaohongshu workflow, read `references/book-series-workflow.md` first and generate the full package.
-3. Read `references/style-reference.md` when visual consistency matters.
-4. Read `references/templates.md` and choose one layout template.
-5. Add topic-specific cultural elements, characters, scenes, and emotional keywords.
-6. Add Xiaohongshu-style annotations that create curiosity, collectability, and shareability.
-7. Read `references/negative-rules.md` and apply the negative rules.
-8. If the user says generate, make, create, 做, 出图, 生成封面, 生成图片, or asks for an automatic book package, treat the visual prompt as internal input and call the available image generation tool for each requested image. Prefer GPT Image 2 when the tool allows model selection. Do not show prompt text as the final deliverable unless the user specifically asks for prompt, 提示词, or 文案 only.
-9. If the user is preparing to publish, read `references/publishing.md` and add title, caption, hashtags, and interaction hooks.
+3. If the user asks for a named group of characters, a complete character set, or a multi-character series, follow the Batch Character Series rules before generating images.
+4. Read `references/style-reference.md` when visual consistency matters.
+5. Read `references/templates.md` and choose one layout template.
+6. Add topic-specific cultural elements, characters, scenes, and emotional keywords.
+7. Add Xiaohongshu-style annotations that create curiosity, collectability, and shareability.
+8. Read `references/negative-rules.md` and apply the negative rules.
+9. If the user says generate, make, create, 做, 出图, 生成封面, 生成图片, or asks for an automatic book package, treat the visual prompt as internal input and call the available image generation tool for each requested image. Prefer GPT Image 2 when the tool allows model selection. Do not show prompt text as the final deliverable unless the user specifically asks for prompt, 提示词, or 文案 only.
+10. If the user is preparing to publish, read `references/publishing.md` and add title, caption, hashtags, and interaction hooks.
 
 Use examples from `examples/` as few-shot references when the user asks for a similar output.
+
+## Batch Character Series
+
+Use this mode when the user asks for a named character group, full roster, complete set, 多个角色, 人物系列, 群像系列, 全员封面, 金陵十二钗, 水浒 108 将, 三十六计人物, 唐宋诗人系列, or similar multi-character requests.
+
+Default behavior:
+
+1. Treat each character as one separate `Template B: Character Cover` image.
+2. Keep the same aspect ratio, layout skeleton, border style, paper texture, color palette, title placement, seal placement, and annotation density across the whole series.
+3. Give each character distinct visual cues: clothing color, symbolic object, flower or plant, posture, facial temperament, iconic scene, and 2-4 character-specific annotations.
+4. Start by listing the character roster and planned visual differentiators. If the roster is famous and stable, proceed without asking the user to confirm. If the roster is ambiguous, ask one concise clarification.
+5. For 12 or fewer characters, generate the full set in one batch when the image tool can handle it. For more than 12 characters, split into numbered batches and keep a consistent series plan.
+6. Name outputs consistently with the series and character name, such as `honglou-jinling-01-lin-daiyu`, `honglou-jinling-02-xue-baochai`.
+7. Do not collapse a requested full character set into 2-3 representative characters. Representative selection only applies when the user asks for a general book package and does not request a complete group.
+
+For 金陵十二钗, use the canonical main twelve by default:
+
+- 林黛玉
+- 薛宝钗
+- 贾元春
+- 贾探春
+- 史湘云
+- 妙玉
+- 贾迎春
+- 贾惜春
+- 王熙凤
+- 贾巧姐
+- 李纨
+- 秦可卿
+
+Keep all twelve visually connected as one collectible Xiaohongshu carousel series, while making each card immediately recognizable.
 
 ## Fixed Visual DNA
 

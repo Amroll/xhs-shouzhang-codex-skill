@@ -11,6 +11,7 @@ It is designed for more than one-off image prompts. The goal is to help build a 
 - Guofeng scrapbook covers for Xiaohongshu
 - Visual content for classic Chinese literature
 - Historical or literary character covers
+- Batch character cover series, such as the Twelve Beauties of Jinling
 - Relationship maps, faction maps, and family trees
 - Poetry cards, quote cards, and healing reflection cards
 - Account avatars, profile visuals, and series covers
@@ -74,6 +75,10 @@ Use the guofeng-scrapbook-xiaohongshu skill to create a full Xiaohongshu Guofeng
 
 ```text
 Create a Liu Bei character cover in Guofeng scrapbook collage style for Xiaohongshu.
+```
+
+```text
+Create one individual character cover for each of the Twelve Beauties of Jinling from Dream of the Red Chamber, using a unified Guofeng scrapbook series style.
 ```
 
 ```text

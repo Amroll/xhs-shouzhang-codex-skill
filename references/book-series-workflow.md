@@ -63,6 +63,8 @@ Choose 2-3 characters by default for books with many important characters.
 
 If the book has fewer than 5 widely recognized protagonists or core main characters, cover all of them as representative character images.
 
+If the user explicitly asks for a named character group, complete roster, multiple characters, 人物系列, 全员封面, 金陵十二钗, or similar batch character output, do not use this 2-3 character limit. Follow `Batch Character Series` in `SKILL.md` and `Template B2: Batch Character Series` in `references/templates.md`.
+
 Examples:
 
 - 《西游记》 has 4 core protagonists: 唐僧, 孙悟空, 猪八戒, 沙僧. Generate all 4 representative character images.
