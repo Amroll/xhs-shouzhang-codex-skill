@@ -11,7 +11,7 @@ Use this skill to turn Chinese literature, history, poetry, character studies, a
 - 知识可视化
 - 小红书高收藏封面
 - 轻复古纸张质感
-- 温柔、文艺、少女感、国风高级审美
+- 温暖奶油色、文艺少女感、国风高级审美
 
 The goal is not only to generate one image prompt. The goal is to keep every output looking like it belongs to the same recognizable visual account.
 
@@ -44,11 +44,11 @@ Use examples from `examples/` as few-shot references when the user asks for a si
 Every visual prompt should preserve these anchors:
 
 - scrapbook collage, hand-made layout, layered paper
-- warm off-white old paper background
+- warm cream old paper background
 - vintage book page texture
 - torn paper edges
-- washi tape and translucent tape
-- sticky notes, labels, small stickers
+- soft pink washi tape and translucent tape
+- peach sticky notes, labels, small flower stickers
 - handwritten annotations, arrows, circles, underlines
 - red and blue pen notes
 - soft watercolor illustration
@@ -56,22 +56,24 @@ Every visual prompt should preserve these anchors:
 - Chinese ink accents
 - red seal stamp or gold stamp
 - gentle shadows between paper layers
-- warm, soft light
+- warm honey-like soft light
 - high information density but comfortable spacing
-- educational yet healing atmosphere
+- educational, healing, warm, and softly girlish atmosphere
 
 Preferred color system:
 
-- warm off-white
-- light khaki
-- bamboo green
-- muted teal
-- dusty rose red
+- warm cream
+- milky ivory
+- peach pink
+- apricot blush
+- dusty rose
+- milk tea brown
+- soft champagne gold
+- tiny accents of bamboo green
+- tiny accents of misty blue
 - ink black
-- warm brown
-- soft gold
 
-Avoid making the palette too dark, too saturated, too neon, or too theatrical.
+Avoid making the palette too dark, too saturated, too neon, too candy-like, or too theatrical. Keep the girlish feeling warm, literary, and refined rather than cute in a childish way.
 
 ## Layout Templates
 

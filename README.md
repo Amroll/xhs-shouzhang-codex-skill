@@ -20,15 +20,17 @@ It is designed for more than one-off image prompts. The goal is to help build a 
 
 This skill keeps a stable visual DNA:
 
-- warm off-white vintage paper background
+- warm cream vintage paper background
 - old book page texture
 - torn paper edges and layered paper
-- washi tape, translucent tape, sticky notes, and labels
+- pale pink washi tape, translucent tape, peach sticky notes, and labels
 - handwritten notes, arrows, circles, and underlines
 - red and blue pen annotations, seal stamps, and small gold stamps
 - watercolor illustration, colored pencil texture, and Chinese ink accents
 - information-rich layouts with comfortable spacing
-- an educational, collectible, and emotionally healing atmosphere
+- a warmer, more refined girlish atmosphere that still feels educational, collectible, and emotionally healing
+
+Preferred colors include warm cream, milky ivory, peach pink, apricot blush, dusty rose, milk tea brown, soft champagne gold, and tiny accents of bamboo green or misty blue.
 
 ## Repository Structure
 

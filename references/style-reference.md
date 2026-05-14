@@ -9,24 +9,26 @@ Create a Xiaohongshu visual identity for Chinese literature, history, poetry, an
 - guofeng scrapbook collage
 - healing knowledge visualization
 - collectible note-like covers
-- warm literary atmosphere
+- warm cream-toned literary atmosphere
+- soft, refined girlish warmth
 - high information value without visual pressure
 
-The visual should feel like a knowledgeable, gentle creator made a hand-crafted study page, not like a traditional poster, textbook page, fantasy game illustration, or commercial ad.
+The visual should feel like a knowledgeable, gentle creator made a warm, hand-crafted study page with subtle girlish softness, not like a traditional poster, textbook page, fantasy game illustration, commercial ad, or childish cute stationery page.
 
 ## Core Materials
 
 Always prefer:
 
 - warm off-white old paper
+- warm cream paper
 - vintage book page texture
 - torn paper edges
 - kraft paper fragments
 - rice paper texture
-- washi tape
+- pale pink washi tape
 - translucent tape
-- sticky notes
-- label stickers
+- peach and apricot sticky notes
+- small flower label stickers
 - red seal stamps
 - gold seal stamps
 - handwritten arrows
@@ -40,20 +42,23 @@ Always prefer:
 
 Primary base:
 
-- warm off-white
-- light khaki
-- soft kraft brown
+- warm cream
+- milky ivory
+- pale apricot paper
+- soft milk tea brown
 
 Accent colors:
 
-- dusty rose red
-- bamboo green
-- muted teal
+- peach pink
+- apricot blush
+- dusty rose
+- muted coral red
+- soft champagne gold
+- tiny accents of bamboo green
+- tiny accents of misty blue
 - ink black
-- soft gold
-- warm brown
 
-Use accents sparingly. The page should feel calm, layered, literary, and collectible.
+Use pink and peach accents as a soft temperature, not as a full pink wash. Bamboo green and misty blue are balancing accents only. The page should feel warm, layered, literary, feminine, and collectible.
 
 ## Texture And Light
 
@@ -92,12 +97,18 @@ Use these when describing atmosphere:
 
 - 治愈
 - 温柔
+- 暖奶油色
+- 桃粉
+- 杏粉
+- 豆沙玫瑰
+- 奶茶棕
 - 轻复古
 - 国风高级感
 - 文艺
 - 知识感
 - 收藏感
-- 少女感
+- 少女感更强
+- 温暖但不甜腻
 - 安静
 - 有后劲
 - 像认真做过功课的手账
@@ -111,6 +122,5 @@ Every output should include at least five recurring brand anchors:
 3. tape or sticky note
 4. handwritten annotation
 5. soft watercolor or colored pencil guofeng illustration
-6. restrained warm color palette
+6. warm cream, peach, apricot, and dusty rose palette
 7. red seal or ink brush title
-
