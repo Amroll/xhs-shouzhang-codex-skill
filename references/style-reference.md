@@ -19,11 +19,13 @@ The visual should feel like a knowledgeable, gentle creator made a warm, hand-cr
 
 Always prefer:
 
-- warm off-white old paper
-- warm cream paper
+- fresh warm cream base paper
+- milky ivory paper
+- pale cherry-blossom blush base sheet
+- very light apricot paper
 - vintage book page texture
 - torn paper edges
-- kraft paper fragments
+- small kraft paper fragments as accents only
 - rice paper texture
 - pale pink washi tape
 - translucent tape
@@ -42,8 +44,9 @@ Always prefer:
 
 Primary base:
 
-- warm cream
+- fresh warm cream
 - milky ivory
+- pale cherry-blossom blush
 - pale apricot paper
 - soft milk tea brown
 
@@ -58,7 +61,18 @@ Accent colors:
 - tiny accents of misty blue
 - ink black
 
-Use pink and peach accents as a soft temperature, not as a full pink wash. Bamboo green and misty blue are balancing accents only. The page should feel warm, layered, literary, feminine, and collectible.
+Use pink and peach accents as a soft temperature, not as a full pink wash. Bamboo green and misty blue are balancing accents only. The page should feel warm, fresh, literary, feminine, and collectible.
+
+## Base Paper Direction
+
+The bottom-most background paper should feel 少女感, 文艺, and 小清新:
+
+- preferred base colors: milky ivory, fresh warm cream, pale cherry-blossom blush, very light apricot
+- texture: matte paper, subtle fibers, faint book-page grain, minimal speckles
+- light: airy, clean, warm daylight
+- avoid: dark yellow parchment, heavy kraft brown, tea-stained paper, muddy beige, gray old-paper backgrounds
+
+Kraft paper, darker old-book scraps, and brown labels can appear only as small collage accents above the base sheet. They should not define the overall background color.
 
 ## Texture And Light
 

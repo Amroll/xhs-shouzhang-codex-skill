@@ -23,7 +23,7 @@ Batch character requests default to one separate cover per character. If you ask
 
 This skill keeps a stable visual DNA:
 
-- warm cream vintage paper background
+- fresh warm cream or pale blush base paper background
 - old book page texture
 - torn paper edges and layered paper
 - pale pink washi tape, translucent tape, peach sticky notes, and labels
@@ -33,7 +33,7 @@ This skill keeps a stable visual DNA:
 - information-rich layouts with comfortable spacing
 - a warmer, more refined girlish atmosphere that still feels educational, collectible, and emotionally healing
 
-Preferred colors include warm cream, milky ivory, peach pink, apricot blush, dusty rose, milk tea brown, soft champagne gold, and tiny accents of bamboo green or misty blue.
+Preferred colors include fresh warm cream, milky ivory, pale cherry-blossom blush, peach pink, apricot blush, dusty rose, milk tea brown, soft champagne gold, and tiny accents of bamboo green or misty blue. The bottom-most base paper should stay bright, airy, literary, and fresh rather than dark parchment or heavy kraft brown.
 
 ## Repository Structure
 

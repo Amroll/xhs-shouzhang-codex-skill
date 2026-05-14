@@ -84,7 +84,7 @@ Keep all twelve visually connected as one collectible Xiaohongshu carousel serie
 Every visual prompt should preserve these anchors:
 
 - scrapbook collage, hand-made layout, layered paper
-- warm cream old paper background
+- fresh warm cream base paper background with a subtle blush-pink tint
 - vintage book page texture
 - torn paper edges
 - soft pink washi tape and translucent tape
@@ -102,8 +102,9 @@ Every visual prompt should preserve these anchors:
 
 Preferred color system:
 
-- warm cream
+- fresh warm cream
 - milky ivory
+- cherry-blossom blush
 - peach pink
 - apricot blush
 - dusty rose
@@ -114,6 +115,13 @@ Preferred color system:
 - ink black
 
 Avoid making the palette too dark, too saturated, too neon, too candy-like, or too theatrical. Keep the girlish feeling warm, literary, and refined rather than cute in a childish way.
+
+Base paper color rule:
+
+- The bottom-most sheet should feel girlish, literary, and fresh: milky ivory, fresh warm cream, pale cherry-blossom blush, or very light apricot.
+- Keep the base paper bright and airy, with only subtle fibers and faint vintage speckles.
+- Avoid heavy yellowed parchment, dark kraft paper, brown tea-stained paper, or muddy gray-beige as the main background.
+- Use kraft brown only as small collage fragments, labels, or edge accents, not as the dominant base sheet.
 
 ## Layout Templates
 
