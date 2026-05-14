@@ -17,6 +17,8 @@ It is designed for more than one-off image prompts. The goal is to help build a 
 - Account avatars, profile visuals, and series covers
 - Full book content packages: covers, character visuals, relationship maps, quote cards, titles, captions, and hashtags
 
+Batch character requests default to one separate cover per character. If you ask for a collage, grid, or collection poster, the skill can also create an additional overview collage.
+
 ## Core Style
 
 This skill keeps a stable visual DNA:

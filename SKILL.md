@@ -54,6 +54,13 @@ Default behavior:
 5. For 12 or fewer characters, generate the full set in one batch when the image tool can handle it. For more than 12 characters, split into numbered batches and keep a consistent series plan.
 6. Name outputs consistently with the series and character name, such as `honglou-jinling-01-lin-daiyu`, `honglou-jinling-02-xue-baochai`.
 7. Do not collapse a requested full character set into 2-3 representative characters. Representative selection only applies when the user asks for a general book package and does not request a complete group.
+8. Do not turn the full character set into one collage grid by default. Default output is separate character images, suitable for a Xiaohongshu carousel.
+
+Optional collection collage:
+
+- If the user explicitly asks for 拼图, 九宫格, 合集图, 总览拼图, 一张图放下全部角色, or collection poster, generate an additional overview collage after the individual character images.
+- For 12 characters, prefer a clean 3x4 collection layout with equal card sizes, shared title, tiny name labels, and enough spacing so faces and names remain readable.
+- The collection collage is a supplement, not a replacement, unless the user asks for only one collage image.
 
 For 金陵十二钗, use the canonical main twelve by default:
 

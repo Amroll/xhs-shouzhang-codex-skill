@@ -70,6 +70,7 @@ Use when the user asks for multiple individual character covers in one request, 
 Series rules:
 
 - one character per image
+- do not make a single collage grid by default
 - same cover ratio, title area, collage density, paper texture, and palette
 - shared series label, such as "金陵十二钗" or "唐宋诗人手账"
 - consistent numbering, seal placement, and bottom note style
@@ -77,6 +78,8 @@ Series rules:
 - do not replace the full requested group with only representative characters
 
 For 12 or fewer characters, plan the whole roster before generating. For more than 12 characters, divide into batches with a shared visual system.
+
+If the user explicitly asks for 拼图, 九宫格, 合集图, or collection poster, create an additional overview collage. For 12 characters, use a readable 3x4 grid with consistent mini-card styling, character names, and a shared series title.
 
 ## Template C: Relationship Map
 
