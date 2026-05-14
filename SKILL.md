@@ -96,7 +96,7 @@ Every visual prompt should preserve these anchors:
 - Chinese ink accents
 - red seal stamp or gold stamp
 - gentle shadows between paper layers
-- warm honey-like soft light
+- bright warm daylight, high-key and airy
 - high information density but comfortable spacing
 - educational, healing, warm, and softly girlish atmosphere
 
@@ -108,13 +108,20 @@ Preferred color system:
 - peach pink
 - apricot blush
 - dusty rose
-- milk tea brown
+- light milk tea beige
 - soft champagne gold
 - tiny accents of bamboo green
 - tiny accents of misty blue
-- ink black
+- soft ink gray for text only
 
-Avoid making the palette too dark, too saturated, too neon, too candy-like, or too theatrical. Keep the girlish feeling warm, literary, and refined rather than cute in a childish way.
+Avoid making the palette too dark, too saturated, too neon, too candy-like, too brown, or too theatrical. Keep the girlish feeling warm, bright, literary, and refined rather than cute in a childish way.
+
+Brightness rule:
+
+- Keep the overall image high-key, clean, and bright, like a sunlit desk near a window.
+- The base paper should occupy a light value range around milky white, pale cream, or blush ivory.
+- Use dark ink, brown, and deep red only for small text, seal details, thin outlines, and tiny anchors.
+- Do not let shadows, old paper texture, tea stains, or dark collage scraps lower the overall brightness.
 
 Base paper color rule:
 

@@ -44,11 +44,12 @@ Always prefer:
 
 Primary base:
 
+- bright milky white
 - fresh warm cream
 - milky ivory
 - pale cherry-blossom blush
 - pale apricot paper
-- soft milk tea brown
+- light milk tea beige
 
 Accent colors:
 
@@ -59,9 +60,19 @@ Accent colors:
 - soft champagne gold
 - tiny accents of bamboo green
 - tiny accents of misty blue
-- ink black
+- soft ink gray for text only
 
-Use pink and peach accents as a soft temperature, not as a full pink wash. Bamboo green and misty blue are balancing accents only. The page should feel warm, fresh, literary, feminine, and collectible.
+Use pink and peach accents as a soft temperature, not as a full pink wash. Bamboo green and misty blue are balancing accents only. The page should feel bright, warm, fresh, literary, feminine, and collectible.
+
+## Brightness Direction
+
+The overall image should use a high-key, bright, airy palette:
+
+- target feeling: sunlit desk, clean morning light, fresh stationery, gentle Xiaohongshu cover
+- keep the base sheet very light: milky white, blush ivory, pale cream, or very light apricot
+- keep shadows soft and shallow
+- restrict dark ink, brown, and deep red to small text, seals, outlines, and detail anchors
+- avoid large dark paper blocks, heavy tea stains, smoky shadows, and low-contrast gray-beige backgrounds
 
 ## Base Paper Direction
 
@@ -69,7 +80,7 @@ The bottom-most background paper should feel 少女感, 文艺, and 小清新:
 
 - preferred base colors: milky ivory, fresh warm cream, pale cherry-blossom blush, very light apricot
 - texture: matte paper, subtle fibers, faint book-page grain, minimal speckles
-- light: airy, clean, warm daylight
+- light: airy, clean, bright warm daylight
 - avoid: dark yellow parchment, heavy kraft brown, tea-stained paper, muddy beige, gray old-paper backgrounds
 
 Kraft paper, darker old-book scraps, and brown labels can appear only as small collage accents above the base sheet. They should not define the overall background color.
@@ -78,7 +89,7 @@ Kraft paper, darker old-book scraps, and brown labels can appear only as small c
 
 Use:
 
-- soft natural light
+- bright soft natural light
 - gentle paper shadows
 - visible paper fibers
 - layered collage depth
@@ -89,6 +100,7 @@ Avoid:
 
 - glossy plastic texture
 - hard dramatic lighting
+- low-key dim lighting
 - cold metallic shine
 - flat digital poster look
 - over-clean UI layout
