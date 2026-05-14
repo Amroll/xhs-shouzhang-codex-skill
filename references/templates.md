@@ -114,7 +114,7 @@ Use for poetry, literary quotes, emotional healing posts, and philosophical refl
 Structure:
 
 - center: large quote or short sentence
-- background: old paper with generous empty space
+- background: clean cream paper with generous empty space
 - decoration: one symbolic object or scene
 - annotation: 1-3 small reflections
 

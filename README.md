@@ -4,7 +4,7 @@
 
 `guofeng-scrapbook-xiaohongshu` is a Codex skill for creating Guofeng scrapbook-style visual content for Xiaohongshu. It turns Chinese literature, history, poetry, character studies, and reflective knowledge topics into a consistent visual content system.
 
-It is designed for more than one-off image prompts. The goal is to help build a reusable account-level visual language: Guofeng aesthetics, vintage paper, collage layouts, handwritten annotations, knowledge cards, character covers, relationship maps, quote cards, and publishing copy.
+It is designed for more than one-off image prompts. The goal is to help build a reusable account-level visual language: Guofeng aesthetics, fresh stationery paper, collage layouts, handwritten annotations, knowledge cards, character covers, relationship maps, quote cards, and publishing copy.
 
 ## What It Creates
 
@@ -24,7 +24,7 @@ Batch character requests default to one separate cover per character. If you ask
 This skill keeps a stable visual DNA:
 
 - fresh warm cream or pale blush base paper background
-- old book page texture
+- clean book-page grain
 - torn paper edges and layered paper
 - pale pink washi tape, translucent tape, peach sticky notes, and labels
 - handwritten notes, arrows, circles, and underlines
@@ -33,7 +33,7 @@ This skill keeps a stable visual DNA:
 - information-rich layouts with comfortable spacing
 - a warmer, more refined girlish atmosphere that still feels educational, collectible, and emotionally healing
 
-Preferred colors include fresh warm cream, milky ivory, pale cherry-blossom blush, peach pink, apricot blush, dusty rose, milk tea brown, soft champagne gold, and tiny accents of bamboo green or misty blue. The bottom-most base paper should stay bright, airy, literary, and fresh rather than dark parchment or heavy kraft brown.
+Preferred colors include fresh warm cream, milky ivory, pale cherry-blossom blush, peach pink, apricot blush, dusty rose, light beige tea tone, soft champagne gold, and tiny accents of bamboo green or misty blue. The bottom-most base paper should stay bright, airy, literary, and fresh rather than dark, stained, or yellow-brown.
 
 ## Repository Structure
 

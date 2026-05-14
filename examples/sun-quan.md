@@ -8,7 +8,7 @@
 3:4 竖版
 
 核心风格：
-治愈系国风手账拼贴风，Scrapbook Collage，小红书爆款知识封面，东吴少年君主氛围，旧纸拼贴、胶带、金色印章、手写箭头、彩色批注。
+治愈系国风手账拼贴风，Scrapbook Collage，小红书爆款知识封面，东吴少年君主氛围，清透奶油纸拼贴、胶带、金色印章、手写箭头、彩色批注。
 
 标题文字：
 超大书法标题「孙权」
@@ -44,4 +44,3 @@
 负面规则：
 no realistic photo, no 3D render, no CGI, no modern elements, no dark horror style, no low quality text, no game splash art
 ```
-

@@ -8,7 +8,7 @@
 3:4 竖版
 
 核心风格：
-治愈系国风手账拼贴风，Scrapbook Collage，小红书知识博主封面，温暖旧纸背景，轻水彩人物插画，手撕纸、和纸胶带、便利贴、手写圈注。
+治愈系国风手账拼贴风，Scrapbook Collage，小红书知识博主封面，清透暖奶油纸背景，轻水彩人物插画，手撕纸、和纸胶带、便利贴、手写圈注。
 
 标题文字：
 超大毛笔书法标题「刘备」
@@ -44,4 +44,3 @@
 负面规则：
 no realistic photo, no 3D render, no CGI, no dark horror style, no heavy makeup, no movie poster, no game splash art, no messy composition
 ```
-

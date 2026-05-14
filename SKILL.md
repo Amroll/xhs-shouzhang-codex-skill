@@ -10,7 +10,7 @@ Use this skill to turn Chinese literature, history, poetry, character studies, a
 - 治愈系国风手账拼贴
 - 知识可视化
 - 小红书高收藏封面
-- 轻复古纸张质感
+- 清透文艺纸张质感
 - 温暖奶油色、文艺少女感、国风高级审美
 
 The goal is not only to generate one image prompt. The goal is to keep every output looking like it belongs to the same recognizable visual account.
@@ -85,7 +85,7 @@ Every visual prompt should preserve these anchors:
 
 - scrapbook collage, hand-made layout, layered paper
 - fresh warm cream base paper background with a subtle blush-pink tint
-- vintage book page texture
+- clean book-page grain
 - torn paper edges
 - soft pink washi tape and translucent tape
 - peach sticky notes, labels, small flower stickers
@@ -108,7 +108,7 @@ Preferred color system:
 - peach pink
 - apricot blush
 - dusty rose
-- milk tea brown
+- light beige tea tone
 - soft champagne gold
 - tiny accents of bamboo green
 - tiny accents of misty blue
@@ -119,9 +119,9 @@ Avoid making the palette too dark, too saturated, too neon, too candy-like, or t
 Base paper color rule:
 
 - The bottom-most sheet should feel girlish, literary, and fresh: milky ivory, fresh warm cream, pale cherry-blossom blush, or very light apricot.
-- Keep the base paper bright and airy, with only subtle fibers and faint vintage speckles.
-- Avoid heavy yellowed parchment, dark kraft paper, brown tea-stained paper, or muddy gray-beige as the main background.
-- Use kraft brown only as small collage fragments, labels, or edge accents, not as the dominant base sheet.
+- Keep the base paper bright and airy, with only subtle paper fibers and clean book-page grain.
+- Avoid any dark, stained, yellow-brown, or muddy gray-beige main background.
+- Use beige-brown only as tiny label text, thin outlines, or edge accents, not as the dominant base sheet.
 
 ## Layout Templates
 
@@ -192,7 +192,7 @@ Use for poetry, emotional posts, philosophical lines, healing reflections, and l
 Structure:
 
 - center: large quote or short sentence
-- background: spacious old paper and subtle collage
+- background: spacious clean cream paper and subtle collage
 - decoration: one symbolic object, plant, book, lamp, moon, window, or landscape
 - annotation: 1-3 small handwritten reflections
 

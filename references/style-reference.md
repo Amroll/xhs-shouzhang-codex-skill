@@ -23,9 +23,9 @@ Always prefer:
 - milky ivory paper
 - pale cherry-blossom blush base sheet
 - very light apricot paper
-- vintage book page texture
+- clean book-page grain
 - torn paper edges
-- small kraft paper fragments as accents only
+- pale beige paper fragments as accents only
 - rice paper texture
 - pale pink washi tape
 - translucent tape
@@ -48,7 +48,7 @@ Primary base:
 - milky ivory
 - pale cherry-blossom blush
 - pale apricot paper
-- soft milk tea brown
+- light beige tea tone
 
 Accent colors:
 
@@ -68,11 +68,11 @@ Use pink and peach accents as a soft temperature, not as a full pink wash. Bambo
 The bottom-most background paper should feel 少女感, 文艺, and 小清新:
 
 - preferred base colors: milky ivory, fresh warm cream, pale cherry-blossom blush, very light apricot
-- texture: matte paper, subtle fibers, faint book-page grain, minimal speckles
+- texture: matte paper, subtle fibers, clean book-page grain
 - light: airy, clean, warm daylight
-- avoid: dark yellow parchment, heavy kraft brown, tea-stained paper, muddy beige, gray old-paper backgrounds
+- avoid: dark, stained, yellow-brown, muddy beige, or gray aged backgrounds
 
-Kraft paper, darker old-book scraps, and brown labels can appear only as small collage accents above the base sheet. They should not define the overall background color.
+Light beige scraps and fine brown labels can appear only as small collage accents above the base sheet. They should not define the overall background color.
 
 ## Texture And Light
 
@@ -116,7 +116,7 @@ Use these when describing atmosphere:
 - 杏粉
 - 豆沙玫瑰
 - 奶茶棕
-- 轻复古
+- 小清新
 - 国风高级感
 - 文艺
 - 知识感
@@ -131,7 +131,7 @@ Use these when describing atmosphere:
 
 Every output should include at least five recurring brand anchors:
 
-1. old paper or book page texture
+1. clean cream paper or book-page grain
 2. torn paper or layered collage
 3. tape or sticky note
 4. handwritten annotation
